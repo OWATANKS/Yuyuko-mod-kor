@@ -1,0 +1,313 @@
+﻿{
+	"SakuraPower_Pink": {
+
+		"NAME": "벚꽃",
+
+		"DESCRIPTIONS": ["#y벚나비 카드를 사용하는 데 필요한 자원입니다. 현재 #y벚꽃을 #b"," 만큼 보유 중입니다. 한 턴에 1번, #y벚꽃 중첩이 #b3 이상이 되었다면, 2개의 이로운 효과 중 하나를 선택하여 얻을 수 있습니다."]
+
+	},
+
+	"ButterflyPower_Pink": {
+
+		"NAME": "나비",
+
+		"DESCRIPTIONS": ["#y벚나비 카드를 사용하는 데 필요한 자원입니다. 현재 #y나비를 #b"," 만큼 보유 중입니다. 한 턴에 1번, #y나비 중첩이 #b3 이상이 되었다면, 2개의 이로운 효과 중 하나를 선택하여 얻을 수 있습니다."]
+
+	},
+
+	"SakuraDownPower_Pink": {
+
+		"NAME": "벚꽃 감소",
+
+		"DESCRIPTIONS": ["턴 종료시, #y벚꽃 중첩이 #b"," 감소합니다."]
+
+	},
+
+	"ButterflyDownPower_Pink": {
+
+		"NAME": "나비 감소",
+
+		"DESCRIPTIONS": ["턴 종료시, #y나비 중첩이 #b"," 감소합니다."]
+
+	},
+
+	"DeathCoil_Pink": {
+
+		"NAME": "죽음의 날개",
+
+		"DESCRIPTIONS": ["적에게 해로운 효과를 부여할 때마다, 피해를 #b"," 줍니다."]
+
+	},
+
+
+	"DeadSpiritPower_Pink": {
+
+		"NAME": "사령",
+
+		"DESCRIPTIONS": ["보유한 사령 중첩 #b2당, 공격으로 주는 피해가 #b2 감소하여, 최대 #b5 까지 감소합니다. 이 생물이 죽으면, 플레이어의 체력이 #b"," 회복됩니다."]
+	},
+
+	"DeadButterfliesFloatOnPower": {
+
+		"NAME": "사접부월",
+
+		"DESCRIPTIONS": ["이번 턴에 공격 받을 때마다, #b"," 장의 무작위 #b스킬 카드를 얻습니다."," 장의 강화된 무작위 #b스킬 카드를 얻습니다."]
+	},
+
+	"DeathWillLastForeverPower": {
+
+		"NAME": "영원한 죽음",
+
+		"DESCRIPTIONS": ["적의 체력을 감소시킬 때마다, 대상에게 #y사령 을 #b"," 부여합니다. 적에게 #y사령 을 부여할 때마다, #y방어도를 #b"," 얻습니다."]
+	},
+
+	"DeathByDiffusionPower": {
+
+		"NAME": "확산하는 죽음",
+
+		"DESCRIPTIONS": ["막히지 않은 #y공격 피해를 줄 때마다, #y사령 을 #b"," 부여합니다. 턴 종료시, 대상에게 부여된 #y사령 중첩이 남은 체력의 2배 이상이라면, 대상의 체력을 0 으로 만듭니다."]
+	},
+
+	"TheWayToLifePower": {
+
+		"NAME": "Path to Rebirth",
+
+		"DESCRIPTIONS": ["턴 종료시, 뽑을 카드 더미에 #y환생 을 넣습니다. 저주 카드를 뽑을 때마다, 카드를 #b"," 장 뽑습니다."]
+	},
+
+	"Sakura_Butterfly_Fantasy_life_Power": {
+
+		"NAME": "완전한 묵염의 벚꽃 - 망아",
+
+		"DESCRIPTIONS": ["매 턴 처음으로 카드를 사용하여 #y벚꽃 또는 #y나비 를 얻을때, 추가로 #b"," 만큼 더 얻습니다."]
+	},
+
+	"Sakura_Butterfly_Fantasy_FullBloom_Power": {
+
+		"NAME": "완전한 묵염의 벚꽃 - 춘면",
+
+		"DESCRIPTIONS": ["이제 #y벚꽃 과 #y나비 중첩의 보유 제한(기존 #b3 )이 사라집니다."]
+	},
+
+	"Sakura_Butterfly_Fantasy_Death_Power": {
+
+		"NAME": "완전한 묵염의 벚꽃 - 개화",
+
+		"DESCRIPTIONS": ["매 턴 종료시, #y환상 의 2 배에 해당하는 #y방어도를 얻고 적 전체의 체력을 감소시킵니다."]
+	},
+
+	"TheCurseOfTheDeadPower": {
+
+		"NAME": "죽음의 기운",
+
+		"DESCRIPTIONS": ["매 턴 시작시, 적 전체에게 #y사령 을 #b"," 부여하고 #y망아향 #b1 장을 얻습니다."]
+	},
+
+	"Sakura_Butterfly_DancePower": {
+
+		"NAME": "우아한 죽음",
+
+		"DESCRIPTIONS": ["이번 턴에 #b스킬 카드를 #b"," 장 사용하면, 다음 공격의 피해량이 2 배로 증가합니다."]
+	},
+
+	"ThousandsOfSakuraPower": {
+
+		"NAME": "끝없는 봄",
+
+		"DESCRIPTIONS": ["손패에서 가장 오른쪽에 위치한 카드를 사용할 때마다, 카드를 #b1 장 뽑습니다. 이 효과는 한 턴에 #b3 번만 발동합니다."]
+	},
+
+	"A_Lonely_Death_Power": {
+
+		"NAME": "고독한 죽음",
+
+		"DESCRIPTIONS": ["#y환생 카드를 버릴 때마다, 그 효과를 발동합니다."]
+	},
+
+	"The_memory_of_the_distant_past_Power": {
+
+		"NAME": "영면의 땅",
+
+		"DESCRIPTIONS": ["한 턴에 #b스킬 카드를 #b2 장 이상 사용하면, 손패의 카드를 #b"," 장 선택해 소멸시키고 카드 "," 장을 발견합니다. 발견한 카드는 이번 턴 동안 비용이 0 이 됩니다."]
+	},
+
+	"DeepGaze_Pink_Power": {
+
+		"NAME": "명계 미스터리 스팟",
+
+		"DESCRIPTIONS": ["매 턴 시작시, 예지 #b",", 이후 카드를 1 장 뽑습니다."]
+	},
+
+	"TheVoidOfSoul_Power": {
+
+		"NAME": "진정한 공허",
+
+		"DESCRIPTIONS": ["다음 #b"," 턴 후에, 받는 모든 피해가 반감 됩니다.","이번 턴 동안, 받는 모든 피해가 반감 됩니다."]
+	},
+
+	"DoubleDamagePower_Pink": {
+
+		"NAME": "피해량 2배",
+
+		"DESCRIPTIONS": ["다음에 사용하는 #b"," 장의 #b공격 카드가 2 배의 피해를 줍니다."]
+	},
+
+	"StrengthDownPower_Pink": {
+
+		"NAME": "힘 감소",
+
+		"DESCRIPTIONS": ["턴 종료시, #y힘을 #b"," 잃습니다."]
+	},
+
+	"DexterityDownPower_Pink": {
+
+		"NAME": "민첩 감소",
+
+		"DESCRIPTIONS": ["턴 종료시, #y민첩 을 #b"," 잃습니다."]
+	},
+
+
+	"SoulContainerPower_Pink": {
+
+		"NAME": "영혼 과부하",
+
+		"DESCRIPTIONS": ["받는 피해량이 #b","% 증가합니다. 이 효과는 제거되지 않습니다."]
+	},
+
+
+
+	"TipShowPower": {
+
+		"NAME": "그녀를 구하기 위해...",
+
+		"DESCRIPTIONS": [
+			"현재 카드를 #b",
+			" 장 #y소멸 시켰습니다.",
+			"현재 #y공격 카드를 #b",
+			" 장 사용했습니다.",
+			"현재 #y스킬 카드를 #b",
+			" 장 사용했습니다.",
+			"달성되었습니다.",
+			"달성되지 않았습니다.",
+			"턴 종료시, 제시된 임무를 달성하지 못 했다면, 최대 체력이 #r",
+			" 감소하며, 이 생물의 체력도 #b20 #r감소합니다. 임무를 달성했다면, 이 생물이 #g체력을 #b20 회복합니다. ",
+			" #r경고: 당신의 목숨은 그녀와 연결되어있습니다. 이 생물이 죽으면, #r당신도 #r죽습니다. ",
+			" #g6 #g턴 #g동안 #g생존하십시오. "
+		]
+	},
+
+	"TipShowPower_Special_Pink": {
+
+		"NAME": "봉인 결계",
+
+		"DESCRIPTIONS": [
+			"사용한 카드: #b",
+			"사용한 공격 카드: #b",
+			"사용한 스킬 카드: #b",
+			" 장.",
+			"달성되었습니다.",
+			"달성되지 않았습니다.",
+			"만약 제시된 임무를 수행했다면:",
+			"대상 적이 #b1 턴간 #y기절 합니다.",
+			"대상 적의 #y끈기 효과가 #b3턴간 #g무력화 됩니다. 무력화되면 3턴간 끈기 효과가 발동하지 않습니다.",
+			"다음 턴 시작시, [E] [E] 를 얻고 카드를 추가로 2 장 뽑습니다.",
+			"대상 적의 #y힘이 #b3 감소하고, 당신의 #y힘을 #b2 , #y민첩을 #b1 증가시킵니다."
+		]
+	},
+
+
+	"DispersedCherryButterfliesPower_Pink":{
+
+		"NAME": "해체되는 영혼",
+
+		"DESCRIPTIONS": [
+			"매 #b5 턴마다, 당신의 #y벚꽃 과 #y나비 중첩을 완전히 제거합니다."
+		]
+	},
+
+	"TheVoiceOfDeath_Pink": {
+
+		"NAME": "망자의 목소리",
+
+		"DESCRIPTIONS": [
+			"이제 #y환생 카드의 체력 감소량은 같은 환생 카드로만 증가시킬 수 있습니다. 환생 카드와 상호작용하는 다른 카드들의 효과는 더 이상 작동하지 않습니다."
+		]
+	},
+
+	"SpecialInvinciblePower_Pink": {
+
+		"NAME": "고위 천하무적",
+
+		"DESCRIPTIONS": [
+			"한 턴에 #r200 체력 이상을 잃지 않습니다. 이 생물에게 주는 최대 피해량은 이 생물의 최대 체력의 #r1% 로 고정됩니다."
+		]
+	},
+
+	"EaterOfSouls_Pink": {
+
+		"NAME": "영혼 탐식",
+
+		"DESCRIPTIONS": [
+			"#y공격 카드를 #b5 장 사용할 때마다, 이 생물이 #y방어도를 #b50 얻습니다."
+		]
+	},
+
+	"StagePower_1_Pink": {
+
+		"NAME": "비장의 카드?",
+
+		"DESCRIPTIONS": [
+			"무언가 #r심상치 #r않은 숨겨진 의도가 있는게 분명합니다..."
+		]
+	},
+
+	"StagePower_2_Pink": {
+
+		"NAME": "친구의 지원",
+
+		"DESCRIPTIONS": [
+			"#g당신의 #g친구가 #g마법을 준비하고 있습니다. #y저것의 #y공세를 #y버텨야합니다!",
+			"마법의 준비가 끝났습니다!"
+		]
+	},
+
+
+	"AutomaticBarrierPower_Pink": {
+
+		"NAME": "악의의 수호물",
+
+		"DESCRIPTIONS": [
+			"매 #b4 턴마다, #y버퍼 를 #b2 얻습니다."
+		]
+	},
+
+	"ConsciousnessAbsorptionPower_Pink": {
+
+		"NAME": "정신 교란술",
+
+		"DESCRIPTIONS": [
+			"매 #b2 턴마다, 버린 카드 더미에 #r어지러움 #b3 장을 넣습니다."
+		]
+	},
+
+	"TenacityPower_Pink": {
+
+		"NAME": "끈기",
+
+		"DESCRIPTIONS": [
+			"받는 모든 피해가 #b",
+			" % 감소합니다. 이번 턴에 카드를 사용할 때마다, 이 효과의 피해 감소치가 #b10% 씩 감소합니다.",
+			"(이 파워 효과는 제압되었습니다. #b",
+			" 턴 후에 다시 복구됩니다!)"
+		]
+	},
+
+	"SpecialSkipPower_Pink": {
+		"NAME": "첨탑의 군주",
+		"DESCRIPTIONS": [
+			"카드를 #b",
+			" 장 사용하면, 당신의 턴을 강제로 종료하고 이 생물이 #y힘을 #b",
+			" 얻습니다."
+		]
+	}
+}

@@ -1,0 +1,405 @@
+{
+	"Attack_Yuyuko_Pink": {
+		"NAME":"타격",
+		"DESCRIPTION": "피해를 !D! 줍니다."
+	},
+	"Defend_Yuyuko_Pink": {
+		"NAME":"수비",
+		"DESCRIPTION": "방어도를 !B! 얻습니다."
+	},
+	"Perplexed_Pink": {
+		"NAME":"혼란한 마음",
+		"DESCRIPTION": "방어도를 !B! 얻습니다. 벚나비. NL 벚꽃 1: 카드를 1 장 버립니다. NL 나비 1: 무작위 적에게 사령 을 !M! 부여합니다."
+	},
+	"Temptations_Pink": {
+		"NAME":"유혹당한 마음",
+		"DESCRIPTION": "환몽. NL 무작위 적에게 피해를 !D! 줍니다. NL 이 카드가 손패에서 버려지면, 카드를 1 장 뽑습니다."
+	},
+
+
+	"FutureLife_Pink": {
+		"NAME":"환생",
+		"DESCRIPTION": "사용불가. 휘발성. NL 턴 종료시, 적 전체의 체력을 !M! 감소시킵니다. NL 이 효과가 발동 될 때마다, 이 카드의 체력 감소량이 1 증가합니다."
+	},
+	"Apoptosis_Special_Pink": {
+		"NAME":"망아향",
+		"DESCRIPTION": "보존. NL 모든 적의 체력이 부여된 사령 중첩만큼 감소합니다. NL 소멸.",
+		"UPGRADE_DESCRIPTION": "보존. NL 모든 적의 체력이 부여된 사령 중첩만큼 감소합니다. 카드를 1 장 뽑고 [E] 를 얻습니다. NL 소멸."
+	},
+
+	"MagnificenceOfRealm": {
+		"NAME":"호화의 선물",
+		"DESCRIPTION": "힘 과 민첩 을 !M! 얻습니다."
+	},
+	"TheWillToResurrect": {
+		"NAME":"환생의 선물",
+		"DESCRIPTION": "*환생 !M! 장을 얻습니다."
+	},
+	"TheWorldOfTheDead": {
+		"NAME":"휴양의 선물",
+		"DESCRIPTION": "적 전체에게 사령 을 !M! 씩 2 번 부여합니다."
+	},
+
+	"Accumulation_Sakura_Pink": {
+		"NAME":"벚꽃 축적",
+		"DESCRIPTION": "카드를 3 장 뽑고 카드를 1 장 버립니다. NL 턴 종료시, 벚꽃 중첩이 2 감소합니다."
+	},
+	"Release_Sakura_Pink": {
+		"NAME":"벚꽃 방출",
+		"DESCRIPTION": "버린 카드 더미의 카드 1 장을 선택해 손으로 가져옵니다."
+	},
+	"Accumulation_Butterfly_Pink": {
+		"NAME":"나비 축적",
+		"DESCRIPTION": "이번 턴 동안 적에게 해로운 효과를 부여할 때마다, 대상이 3의 피해를 받습니다. NL 턴 종료시, 나비 중첩이 2 감소합니다."
+	},
+	"Release_Butterfly_Pink": {
+		"NAME":"나비 방출",
+		"DESCRIPTION": "인공물 을 1 얻습니다."
+	},
+
+
+	"ButterflyDance_Pink": {
+		"NAME":"춤추는 나비",
+		"DESCRIPTION": "다음 턴 시작시, [E] 를 얻습니다. 벚나비. NL 벚꽃 2: 힘 을 !M! 얻습니다. NL 나비 1: 카드를 1 장 버립니다.",
+		"UPGRADE_DESCRIPTION": "다음 턴 시작시, [E] [E] 를 얻습니다. 벚나비. NL 벚꽃 2: 힘 을 !M! 얻습니다. NL 나비 1: 카드를 1 장 버립니다."
+	},
+	"DeathButterfly_Pink": {
+		"NAME":"사접령",
+		"DESCRIPTION": "피해를 !D! 줍니다. 이번 턴에 카드를 버렸다면, 손패의 무작위 카드 1 장을 소멸시키고 무작위 3장의 카드 중 1장을 선택해 손으로 가져옵니다. 이번 턴 동안 해당 카드의 비용이 0 이 됩니다.",
+		"UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. 이번 턴에 카드를 버렸다면, 손패의 카드 1 장을 선택해 소멸시키고 무작위 3장의 카드 중 1장을 선택해 손으로 가져옵니다. 이번 턴 동안 해당 카드의 비용이 0 이 됩니다."
+	},
+	"DeathSoulSpear_Pink": {
+		"NAME":"호랑나비 투창",
+		"DESCRIPTION": "사용불가. NL 이 카드가 버려지거나 소멸 되면, 적 전체에게 피해를 !D! 주고 벚꽃 을 1 얻습니다."
+	},
+	"DreamInterrupted_Pink": {
+		"NAME":"단몽",
+		"DESCRIPTION": "방어도를 !B! 얻습니다. 벚꽃 을 1 얻습니다. NL 이전에 사용했던 카드가 공격 카드였다면, 모든 *환생 카드의 효과 수치가 !M! 증가합니다."
+	},
+	"EndlessRoad_Pink": {
+		"NAME":"끝없는 길",
+		"DESCRIPTION": "환몽. NL 적 전체에게 약화 와 사령 을 !M! 부여합니다. 이 카드가 버려지면, 벚꽃 을 1 얻습니다."
+	},
+	"EndlessSuffering_Pink": {
+		"NAME":"수많은 고난",
+		"DESCRIPTION": "*환생 !M! 장을 얻고 카드를 1 장 뽑습니다. 그 후 손패에 보유한 카드 수만큼 방어도를 얻습니다. NL 소멸."
+	},
+	"GhastlyDream_Pink": {
+		"NAME":"개스틀리 드림",
+		"DESCRIPTION": "피해를 !D! 줍니다. 이 카드를 사용해서 [E] 를 전부 소모했다면, [E] [E] 를 얻습니다. 그렇지 않다면, 다시 피해를 !D! 줍니다."
+	},
+	"OnlyMySakura_Pink": {
+		"NAME":"벚꽃, 나비, 다 함께",
+		"DESCRIPTION": "방어도를 !B! 얻습니다. 벚나비. NL 벚꽃 또는 나비 1: *환생 1 장을 얻습니다."
+	},
+	"SakurasDance_Pink": {
+		"NAME":"춤추는 묵염",
+		"DESCRIPTION": "방어도를 !B! 얻습니다. 사령 을 !M! 부여합니다. NL 지정한 적의 의도가 공격 이라면, 약화 를 !M! 부여합니다."
+	},
+	"SenseOfElegance_Pink":{
+		"NAME":"우아함의 감각",
+		"DESCRIPTION": "피해를 !D! 줍니다. NL 대상의 사령 중첩이 8 이상이라면, [E] [E] [E] 를 얻습니다."
+	},
+	"SoulLash_Pink": {
+		"NAME":"영체 충격",
+		"DESCRIPTION": "적 전체에게 피해를 !D! 주고 취약 과 사령 을 !M! 부여합니다."
+	},
+	"TheLastLife_Pink": {
+		"NAME":"허송세월",
+		"DESCRIPTION": "방어도를 !B! 얻습니다. 환상 이 4 이하라면, 추가로 방어도를 !B! 얻습니다. 그렇지 않다면, 민첩 을 1 얻습니다."
+	},
+	"TheNextLifeWillComes_Pink": {
+		"NAME":"회상",
+		"DESCRIPTION": "카드를 !M! 장 뽑습니다. 카드를 !M! 장 버립니다. *환생 1 장을 얻습니다."
+	},
+	"UnderworldReturn_Pink": {
+		"NAME":"덧없는 힘",
+		"DESCRIPTION": "힘 과 민첩 을 !M! 얻습니다. 턴 종료시, 힘 과 민첩 이 !M! 감소합니다."
+	},
+	"UnderworldRoad_Pink": {
+		"NAME":"요모츠히라사카 행로",
+		"DESCRIPTION": "피해를 !D! 줍니다. 벚나비. NL 벚꽃 1: 사령 을 !M! 부여합니다. NL 나비 1: *망아향 1 장을 얻습니다.",
+		"UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. 벚나비. NL 벚꽃 1: 사령 을 !M! 부여합니다. NL 나비 1: *망아향+ 1 장을 얻습니다."
+	},
+	"WanderingSoul_Pink": {
+		"NAME":"방황하는 영혼",
+		"DESCRIPTION": "피해를 !D! 줍니다. 카드를 1 장 뽑고 카드를 1 장 버립니다. NL 이전에 사용했던 카드가 스킬 카드였다면, 사령 을 !M! 부여합니다.",
+		"UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. 카드를 2 장 뽑고 카드를 1 장 버립니다. NL 이전에 사용했던 카드가 스킬 카드였다면, 사령 을 !M! 부여합니다."
+	},
+
+
+	"Apoptosis_Pink": {
+		"NAME":"세포 사멸",
+		"DESCRIPTION": "보존. NL 손패의 모든 저주 카드를 소멸 시킵니다, 이 효과로 소멸 시킨 저주 1장당, 사령 을 !M! 부여합니다. *망아향 1 장을 얻습니다. NL 소멸.",
+		"UPGRADE_DESCRIPTION": "보존. NL 손패의 모든 저주 카드를 소멸 시킵니다, 이 효과로 소멸 시킨 저주 1장당, 사령 을 !M! 부여합니다. 강화된 *망아향 1 장을 얻습니다. NL 소멸."
+	},
+	"BeComeTheButterfly_Pink": {
+		"NAME":"호랑나비 폭발",
+		"DESCRIPTION": "피해를 !D! 줍니다. 나비 를 1 얻습니다. 벚나비. NL 벚꽃 2: 현재 방어도와 동일한 피해를 줍니다."
+	},
+	"BuriedBySakura_Pink": {
+		"NAME":"벚꽃 매장지",
+		"DESCRIPTION": "대상의 체력을 !D! 감소시킵니다. 벚나비. NL 벚꽃 1: 대상의 방어도를 훔쳐 자신의 것으로 만듭니다. NL 나비 1: 다음 턴에 [E] 를 얻습니다."
+	},
+	"ButterflyDream_Pink": {
+		"NAME":"호접몽",
+		"DESCRIPTION": "카드를 !M! 장 뽑습니다. 나비 를 1 얻습니다. NL 손패에 보유한 카드 수만큼 방어도를 얻습니다."
+	},
+	"DeadButterfliesFloatOn_Pink": {
+		"NAME":"사접부월",
+		"DESCRIPTION": "방어도를 !B! 얻습니다. 벚나비. NL 나비 2: 이번 턴에 공격 받을 때마다, 무작위 스킬 카드 1 장을 얻습니다.",
+		"UPGRADE_DESCRIPTION": "방어도를 !B! 얻습니다. 벚나비. NL 나비 2: 이번 턴에 공격 받을 때마다, 강화된 무작위 스킬 카드 1 장을 얻습니다."
+	},
+	"DeathByDiffusion_Pink": {
+		"NAME":"확산하는 죽음",
+		"DESCRIPTION": "막히지 않은 공격 피해를 줄 때마다, 사령 을 !M! 부여합니다. NL 턴 종료시, 대상에게 부여된 사령 중첩이 남은 체력의 2배 이상이라면, 대상의 체력을 0 으로 만듭니다."
+	},
+	"DeathIsTheEndOfLife_Pink": {
+		"NAME":"생자필멸의 이치",
+		"DESCRIPTION": "적 전체의 체력을 !D! 감소시키며, 감소량은 환상 값에 따라서 증가합니다. NL 환상 값이 4 이하라면, 카드를 2 장 뽑습니다. 그렇지 않다면, 적 전체의 체력을 2배로 감소시킵니다."
+	},
+	"DeathSuffer_Pink": {
+		"NAME":"고난의 진군",
+		"DESCRIPTION": "!B! 방어도를 2 번 얻습니다. 이 카드가 버려지면, [E] 를 얻고 이 카드의 방어도가 !M! 증가합니다."
+	},
+	"DeathWillLastForever_Pink": {
+		"NAME":"영원한 죽음",
+		"DESCRIPTION": "적의 체력을 감소시킬 때마다, 대상에게 사령 을 !M! 부여합니다. 적에게 사령 을 부여할 때마다, 방어도를 !M! 얻습니다.",
+		"UPGRADE_DESCRIPTION": "보존. NL 적의 체력을 감소시킬 때마다, 대상에게 사령 을 !M! 부여합니다. 적에게 사령 을 부여할 때마다, 방어도를 !M! 얻습니다."
+	},
+	"EndlessDeath_Pink": {
+		"NAME":"죽음의 고리",
+		"DESCRIPTION": "피해를 !D! 줍니다. 대상에게 부여된 사령 중첩의 !M! 배만큼 이 카드의 피해량이 증가합니다. 만약 사령 이 5 이하라면, 피해량이 5 증가합니다."
+	},
+	"EnlightenmentForTheFuture_Pink": {
+		"NAME":"미래를 위한 각오",
+		"DESCRIPTION": "환몽. NL 뽑을 카드 더미의 카드 !M! 장을 선택해 손으로 가져옵니다."
+	},
+	"FlowerButterflyPretty_Pink": {
+		"NAME":"화접풍월",
+		"DESCRIPTION": "사용불가. NL 이 카드가 버려지면, 카드를 !M! 장 뽑습니다. 이 카드가 소멸되면, 벚꽃 과 나비 를 1 얻습니다."
+	},
+	"GhostSpot_Pink": {
+		"NAME":"고스트 스팟",
+		"DESCRIPTION": "체력을 3 잃습니다 NL 손패에 카드가 !M! 장이 될 때까지 카드를 뽑습니다. NL 소멸."
+	},
+	"I_am_with_Sakura_Pink": {
+		"NAME":"사별",
+		"DESCRIPTION": "!B! 방어도를 2 번 얻습니다. 벚나비. NL 나비 2: 카드를 2 장 뽑습니다."
+	},
+	"Inevitability_Pink": {
+		"NAME":"피할 수 없는 고난",
+		"DESCRIPTION": "피해를 !D! 줍니다. NL 대상에게 부여된 사령 중첩의 !M! 배에 해당하는 방어도를 얻습니다."
+	},
+	"Lead_A_Befuddled_Life_Pink": {
+		"NAME":"방탕한 삶",
+		"DESCRIPTION": "사용불가. NL 이 카드가 버려지거나 소멸 되면, [E] 를 얻습니다. 회혼 .",
+		"UPGRADE_DESCRIPTION": "사용불가. NL 이 카드가 버려지거나 소멸 되면, [E] [E] 를 얻습니다. 회혼 ."
+	},
+	"LifeIsWandering_Pink": {
+		"NAME":"유령의 우아함",
+		"DESCRIPTION": "힘 과 민첩 을 1 얻습니다. 벚나비. NL 벚꽃 1: 추가로 힘 을 1 얻습니다. NL 나비 1: 추가로 민첩 을 1 얻습니다."
+	},
+	"NightSakura_Pink": {
+		"NAME":"새벽화",
+		"DESCRIPTION": "!B! 방어도를 2 번 얻습니다. 벚나비. NL 벚꽃 2: 방어도를 2 번 더 얻습니다. NL 나비 2: 추가로 판금 갑옷 을 !M! 얻습니다."
+	},
+	"RemembranceOfPastLives_Pink": {
+		"NAME":"추모",
+		"DESCRIPTION": "체력을 !M! 회복합니다. 카드를 2 장 버립니다. NL *환생 !M! 장을 얻습니다. NL 소멸."
+	},
+	"SakuraFantasy_Pink": {
+		"NAME":"사별의 춤",
+		"DESCRIPTION": "피해를 !D! 주고 방어도를 !B! 얻습니다. NL 환상 이 4 이하라면, [E] [E] 를 얻습니다. 그렇지 않다면, [E] 를 추가로 잃고 이 카드의 피해량과 방어도를 2배로 증가시킵니다. NL 소멸."
+	},
+	"SnowAndFlowers_Pink": {
+		"NAME":"차디찬 죽음",
+		"DESCRIPTION": "!D! 피해를 6 번 줍니다. NL 벚꽃 이나 나비를 얻을 때마다, 이 카드의 피해량도 그만큼 증가합니다. 이 카드가 버려지면, 벚꽃 과 나비 를 1 얻습니다."
+	},
+	"TheButterflyInTheDeep_Pink": {
+		"NAME":"명계의 나비",
+		"DESCRIPTION": "피해를 !D! 줍니다. NL 대상에게 사령 이 부여되어 있다면, 대상의 사령 중첩의 절반에 해당하는 만큼 *환생 의 체력 감소량을 증가시킵니다.",
+		"UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 대상에게 사령 이 부여되어 있다면, 대상의 사령 중첩에 해당하는 만큼 *환생 의 체력 감소량을 증가시킵니다."
+	},
+	"TheDeepCalls_Pink": {
+		"NAME":"심연의 속삭임",
+		"DESCRIPTION": "카드를 전부 버립니다. 버린 카드 수 만큼 카드를 뽑습니다. NL 소멸.",
+		"UPGRADE_DESCRIPTION": "카드를 전부 버립니다. 버린 카드 수 만큼 카드를 뽑습니다."
+	},
+	"TheDeepErosion_Pink": {
+		"NAME":"명계의 침식",
+		"DESCRIPTION": "!D! 피해를 2 번 줍니다. 이 카드가 버려지면, 카드를 2 장 뽑고 이 카드의 피해량을 !M! 증가시킵니다."
+	},
+	"TheFeastOfDeath_Pink": {
+		"NAME":"미련미작연",
+		"DESCRIPTION": "환몽. NL 방어도를 !B! 얻고 적 전체에게 약화 를 !M! 부여합니다."
+	},
+	"TheHell_Pink": {
+		"NAME":"앵취설 지옥",
+		"DESCRIPTION": "카드를 1 장 소멸시킵니다. NL 공격 카드를 소멸시켰다면, 벚꽃 을 1 얻습니다. 스킬 카드를 소멸시켰다면, 나비 를 1 얻습니다. NL 소멸.",
+		"UPGRADE_DESCRIPTION": "카드를 1 장 소멸시킵니다. NL 공격 카드를 소멸시켰다면, 벚꽃 을 1 얻습니다. 스킬 카드를 소멸시켰다면, 나비 를 1 얻습니다."
+	},
+	"TheLastWish_Pink": {
+		"NAME":"마지막 소원",
+		"DESCRIPTION": "방어도를 !B! 얻습니다. 모든 *환생 카드의 체력 감소량을 !M! 증가시킵니다. NL 소멸."
+	},
+	"TheLureOfDeath_Pink": {
+		"NAME":"정토 윤회",
+		"DESCRIPTION": "피해를 !D! 줍니다. 벚나비. NL 벚꽃 1: 모든 *환생 카드의 체력 감소량을 !M! 증가시킵니다. NL 나비 1: 벚꽃 을 1 얻습니다."
+	},
+	"TheMagnificenceOfImmortality_Pink": {
+		"NAME":"불멸의 화려함",
+		"DESCRIPTION": "적 전체에게 피해를 !D! 줍니다. 살아있는 적 하나당, *환생 !M! 장을 얻습니다."
+	},
+	"ThereIsNoDream_Pink": {
+		"NAME":"무수의 꿈",
+		"DESCRIPTION": "카드를 3 장 버립니다. NL [E] [E] 를 얻습니다. 벚나비. NL 벚꽃 3: 카드를 2 장 뽑습니다.",
+		"UPGRADE_DESCRIPTION": "카드를 2 장 버립니다. NL [E] [E] 를 얻습니다. 벚나비. NL 벚꽃 3: 카드를 2 장 뽑습니다."
+	},
+	"TheWayToLife_Pink": {
+		"NAME":"내세로 가는 길",
+		"DESCRIPTION": "턴 종료시, 뽑을 카드 더미에 *환생 을 넣습니다. 저주 카드를 뽑을 때마다, 카드를 1 장 뽑습니다.",
+		"UPGRADE_DESCRIPTION": "보존. NL 턴 종료시, 뽑을 카드 더미에 *환생 을 넣습니다. 저주 카드를 뽑을 때마다, 카드를 1 장 뽑습니다."
+	},
+	"UnableToNirvana_Pink": {
+		"NAME":"사이교우지 무여열반",
+		"DESCRIPTION": "뽑을 카드 더미 맨 위에 있는 !M! 장의 카드를 사용하고 소멸 시킵니다. 이 효과로 *환생 카드가 소멸 된다면, 환생 의 효과가 발동합니다. NL 소멸."
+	},
+	"UnderworldEntice_Pink": {
+		"NAME":"저편의 유혹",
+		"DESCRIPTION": "적 전체에게 사령 을 !M! 씩 2 번 부여합니다. 벚나비. NL 벚꽃 2: 방어도를 2 배로 늘립니다. NL 나비 2: 취약을 3 부여합니다. NL 소멸.",
+		"UPGRADE_DESCRIPTION": " 전체에게 사령 을 !M! 씩 2 번 부여합니다. 벚나비. NL 벚꽃 2: 방어도를 2 배로 늘립니다. NL 나비 2: 취약을 4 부여합니다. NL 소멸."
+	},
+	"UnderworldLights_Pink": {
+		"NAME":"음침한 등불",
+		"DESCRIPTION": "환몽. NL 적 전체에게 피해를 !D! 주고 사령 을 !M! 부여합니다."
+	},
+	"WeepingSakura_Pink": {
+		"NAME":"애도자의 눈물",
+		"DESCRIPTION": "피해를 !D! 줍니다. 벚나비. NL 벚꽃 2: 사령 을 !M! 부여합니다. NL 나비 2: 대상의 사령 중첩만큼 다른 모든 적들에게 사령 을 부여합니다."
+	},
+	"WhyToBecomeBuddha_Pink": {
+		"NAME":"내세의 평화",
+		"DESCRIPTION": "방어도를 !B! 얻습니다. 벚나비. NL 벚꽃 1: 다음 턴 시작시 방어도가 사라지지 않습니다. NL 나비 1: *환생 !M! 장을 얻습니다."
+	},
+
+
+	"A_Lonely_Death_Pink": {
+		"NAME":"고독한 죽음",
+		"DESCRIPTION": "*환생 카드를 버릴 때마다, 그 효과를 발동합니다.",
+		"UPGRADE_DESCRIPTION": " 선천성. NL *환생 카드를 버릴 때마다, 그 효과를 발동합니다."
+	},
+	"Being_Towards_Death_Pink": {
+		"NAME":"메멘토 모리",
+		"DESCRIPTION": "사용불가. NL 이 카드를 뽑으면, *환생 2 장을 얻습니다. 이 카드가 버려지면, 이번 턴에 사용한 카드 수만큼 적 전체의 체력을 감소시킵니다.",
+		"UPGRADE_DESCRIPTION": "사용불가. NL 이 카드를 뽑으면, *환생 2 장을 얻고 카드 1 장을 뽑습니다. 이 카드가 버려지면, 이번 턴에 사용한 카드 수만큼 적 전체의 체력을 감소시킵니다."
+	},
+	"Blooming_Gracefully_Pink": {
+		"NAME":"유아하게 피어라",
+		"DESCRIPTION": "체력을 4 잃습니다. NL 카드를 1 장 버립니다. 버린 카드를 2 장 복사하여 얻습니다. NL 소멸."
+	},
+	"ChangeoverTheLife_Pink": {
+		"NAME":"만개한 벚꽃",
+		"DESCRIPTION": "!D! 피해를 2 번 줍니다. 대상의 사령 중첩이 6 이하라면, 이번 전투 동안 이 카드의 피해량이 2 감소합니다."
+	},
+	"Complete_Ink_Sakura_Pink": {
+		"NAME":"묵염의 벚꽃",
+		"DESCRIPTION": "다음 턴 시작시, 카드를 3 장 뽑습니다. 벚나비. NL 벚꽃 2: 다음 턴에 모든 공격 피해가 2 배로 증가합니다. NL 나비 2: 이번 턴 후에 추가로 내 턴을 종료합니다. 강제 NL 소멸."
+	},
+	"DeepButterfly_Pink": {
+		"NAME":"명혼접",
+		"DESCRIPTION": "피해를 !D! 줍니다. NL 약한\u00A0적 의 무작위 이로운 효과를 제거합니다. 환상 이 6 이상이라면, 약한 적을 제외한 다른 적에게도 효과가 발동합니다. NL 소멸.",
+		"UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. NL 약한\u00A0적 의 무작위 이로운 효과를 제거합니다. 환상 이 6 이상이라면, 약한 적을 제외한 다른 적에게도 효과가 발동합니다."
+	},
+	"Sakura_Butterfly_Dance_Pink":{
+		"NAME":"우아한 죽음",
+		"DESCRIPTION": "한 턴에 스킬 카드를 2 장 이상 사용할 때마다, 다음 공격이 2 배의 피해를 줍니다.",
+		"UPGRADE_DESCRIPTION": "선천성. NL 한 턴에 스킬 카드를 2 장 이상 사용할 때마다, 다음 공격이 2 배의 피해를 줍니다."
+	},
+
+	"Sakura_Butterfly_Fantasy_life_Pink": {
+		"NAME":"완전한 묵염의 벚꽃 - 망아",
+		"DESCRIPTION": "절차. NL 매 턴 처음으로 카드를 사용하여 벚꽃 또는 나비 를 얻을때, 추가로 1 만큼 더 얻습니다. NL 휘발성.",
+		"UPGRADE_DESCRIPTION": "절차. 선천성. NL 매 턴 처음으로 카드를 사용하여 벚꽃 또는 나비 를 얻을때, 추가로 1 만큼 더 얻습니다. NL 휘발성."
+	},
+	"Sakura_Butterfly_Fantasy_FullBloom_Pink": {
+		"NAME":"완전한 묵염의 벚꽃 - 춘면",
+		"DESCRIPTION": "절차. NL 이제 벚꽃 과 나비 중첩의 보유 제한(기존 3)이 사라집니다.",
+		"UPGRADE_DESCRIPTION": "절차. NL 이제 벚꽃 과 나비 중첩의 보유 제한(기존 3)이 사라집니다. NL 카드를 1 장 뽑습니다."
+	},
+	"Sakura_Butterfly_Fantasy_Death_Pink": {
+		"NAME":"완전한 묵염의 벚꽃 - 개화",
+		"DESCRIPTION": "매 턴 종료시, 환상 의 2 배에 해당하는 방어도를 얻고 적 전체의 체력을 감소시킵니다. NL 휘발성.",
+		"UPGRADE_DESCRIPTION": "매 턴 종료시, 환상 의 2 배에 해당하는 방어도를 얻고 적 전체의 체력을 감소시킵니다."
+	},
+
+	"Sakura_Butterfly_Wish_Pink": {
+		"NAME":"망자로부터의 선물",
+		"DESCRIPTION": "하나 선택: 적 전체에게 사령 을 !M! 씩 2 번 부여하거나, 힘 과 민첩 을 !M! 획득하거나, *왕생 !M! 장을 얻습니다. NL 소멸."
+	},
+	"Sakura_Volition_Pink": {
+		"NAME":"벚꽃의 의지",
+		"DESCRIPTION": "적 전체에게 X 피해를 Y 번 줍니다. X 는 벚꽃 과 나비 를 곱한 값이며, Y 는 환상 값입니다.",
+		"UPGRADE_DESCRIPTION": "보존. NL 적 전체에게 X 피해를 Y 번 줍니다. X 는 벚꽃 과 나비 를 곱한 값이며, Y 는 환상 값입니다."
+	},
+	"SoulReturn_Butterfly_Pink": {
+		"NAME":"반혼접",
+		"DESCRIPTION": "보존. NL 손패의 카드를 원하는 만큼 선택해 버립니다. 이 효과로 버린 카드 1장당, 적 전체의 체력을 !M! 감소시킵니다."
+	},
+	"The_lord_of_Underworld_Pink": {
+		"NAME":"명계의 공주",
+		"DESCRIPTION": "이 카드는 이번 턴에 공격, 스킬, 파워 카드를 사용했을 때만 사용할 수 있습니다. NL 무작위 약한\u00A0적 하나를 즉사 시킵니다. 최대 체력을 !M! 얻습니다. NL 소멸.",
+		"UPGRADE_DESCRIPTION": "보존. NL 이 카드는 이번 턴에 공격, 스킬, 파워 카드를 사용했을 때만 사용할 수 있습니다. NL 무작위 약한\u00A0적 하나를 즉사 시킵니다. 최대 체력을 !M! 얻습니다. NL 소멸."
+	},
+	"The_memory_of_the_distant_past_Pink": {
+		"NAME":"영면의 땅",
+		"DESCRIPTION": "한 턴에 스킬 카드를 2 장 이상 사용하면, 손패의 카드를 1 장 선택해 소멸시키고, 무작위 3장의 카드 중 1장을 선택해 손으로 가져옵니다. 이번 턴 동안 해당 카드의 비용이 0 이 됩니다."
+	},
+	"TheCurseOfTheDead_Pink": {
+		"NAME":"죽음의 기운",
+		"DESCRIPTION": "매 턴 시작시, 적 전체에게 사령 을 !M! 부여하고 *망아향 1 장을 얻습니다.",
+		"UPGRADE_DESCRIPTION": "매 턴 시작시, 적 전체에게 사령 을 !M! 부여하고 강화된 *망아향 1 장을 얻습니다."
+	},
+	"TheDeepGaze_Pink": {
+		"NAME":"명계 미스터리 스팟",
+		"DESCRIPTION": "매 턴 시작시, 예지 2 이후 카드를 1 장 뽑습니다.",
+		"UPGRADE_DESCRIPTION": "선천성. NL 매 턴 시작시, 예지 2 이후 카드를 1 장 뽑습니다."
+	},
+	"TheGhostdomSakura_Pink": {
+		"NAME":"Border of Life",
+		"DESCRIPTION": "피해를 !D! 줍니다. 벚나비. NL 벚꽃 1: 카드를 !M! 장 뽑습니다. NL 나비 1: [E] 를 얻습니다.",
+		"UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. 벚나비. NL 벚꽃 1: 카드를 !M! 장 뽑습니다. NL 나비 1: [E] [E] 를 얻습니다."
+	},
+	"TheSoulOfPure_Pink": {
+		"NAME":"순수한 영혼",
+		"DESCRIPTION": "방어도를 !B! 얻습니다. 벚나비. NL 벚꽃 2: 이 카드의 방어도 획득량이 2 배가 됩니다. NL 소멸."
+	},
+	"TheVoidOfSoul_Pink": {
+		"NAME":"진정한 공허",
+		"DESCRIPTION": "매 2 턴마다, 받는 모든 피해가 반감 됩니다.",
+		"UPGRADE_DESCRIPTION": "보존. NL 매 2 턴마다, 받는 모든 피해가 반감 됩니다."
+	},
+	"ThousandsOfSakura_Pink": {
+		"NAME":"끝없는 봄",
+		"DESCRIPTION": "손패에서 가장 오른쪽에 위치한 카드를 사용할 때마다, 카드를 1 장 뽑습니다. 이 효과는 한 턴에 3 번만 발동합니다."
+	},
+
+
+
+
+	"test1": {
+		"NAME":"test1",
+		"DESCRIPTION": ""
+	},
+
+	"test2": {
+		"NAME":"test2",
+		"DESCRIPTION": ""
+	},
+
+	"test3": {
+		"NAME":"test3",
+		"DESCRIPTION": ""
+	}
+
+}
